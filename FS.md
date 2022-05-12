@@ -20,7 +20,7 @@ He explains there well what he uses and what not in this picture:
 
 There is no need to do a degree for the courses that he says he uses in his day work, because you can learn them in UDemy or another online courses website.
 
-And also for web dvelopment you don't need to know C/C++.
+And also for web dvelopment you don't need to know C/C++, OOP or Computer science Introduction so Degree has almost no impact on day to day work in web development.
   
 Degree will expaned your knowledge in Math & it will get you better at solving problems.
 
@@ -34,13 +34,30 @@ It gets stressful for some people.
 Bootcamp will give you guidance (not always good because a developer needs to learn to solve the problems by himself & google).
 
 On the other side bootcamp gets you to basic/below level, I know for a fact that alot of bootcamps "finds a job" for there graduates as tutors in their bootcamp.
-That's not a good idea because you don't want someone without experience teaching you how to code it will lead you to bad prectices & It will cost you about 20K NIS.
+That's not a good idea because you don't want someone without experience teaching you how to code it will lead you to bad prectices, will cost you about 20K NIS & it will take you from 12 weeks to a year to finish (Depends on the bootcamp program).
 
-Bootcamps are not always fully updated with the new technologies, there are still bootcamps at 2022 who teach JQuery.
+Bootcamps are not always fully updated with the new technologies, there are still bootcamps at 2022 who teach JQuery & PHP.
 
 ## C. Self taught
-Practical & Cheap.
+Practical & Cheap. Do it whenever you want style.
 
 You can learn everything for [academind.com](academind.com), it will cost you 200$ for one year subscription.
 
+For this way I'll also provide a list of the courses & more.
 
+1. HTML & CSS.
+2. Javascript.
+3. Typescript. (use only Typescript form now)
+4. Node.js.
+5. MongoDB.
+
+Build your first project, backend only for now.
+
+5. React.js.
+
+Build frontend for the backend project.
+
+6. Angular.
+7. MySQL.
+
+Build a Full Stack project.
