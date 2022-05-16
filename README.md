@@ -1,7 +1,9 @@
 # Full-Stack-Roadmap
-How to become a web Full Stack Developer?
+How to become a Full Stack Developer?
 
-Firstly you have to know English, if you don't go learn English and comeback :). 
+I'm going to focus on web development.
+
+Firstly you have to know English, if you don't, go learn English and comeback :). 
 
 I'm going to talk about the following ways for becoming a developer:
 
@@ -11,8 +13,19 @@ I'm going to talk about the following ways for becoming a developer:
   
   C. Self taught.
   
+The article is going to mostly take into consideration the following variables: 
+
+  A. Money.
+  
+  B. Time.
+  
+  C. Relevance of technologies that the industry uses.
+  
+  D. Self discipline.
+
+  
 ## A. Degree
-In a degree most of the courses won't be prectical for web development. Look at this [Post](https://www.linkedin.com/posts/avi-lewis_%D7%94%D7%90%D7%9D-%D7%AA%D7%95%D7%90%D7%A8-%D7%91%D7%9E%D7%93%D7%A2%D7%99-%D7%9E%D7%97%D7%A9%D7%91-%D7%91%D7%90%D7%9E%D7%AA-%D7%A8%D7%9C%D7%95%D7%95%D7%A0%D7%98%D7%99-%D7%9C%D7%A2%D7%91%D7%95%D7%93%D7%AA-%D7%94%D7%99%D7%95%D7%9D-activity-6873009869566418944-rrTy/).
+In a degree most of the courses won't be prectical for development. Look at this [Post](https://www.linkedin.com/posts/avi-lewis_%D7%94%D7%90%D7%9D-%D7%AA%D7%95%D7%90%D7%A8-%D7%91%D7%9E%D7%93%D7%A2%D7%99-%D7%9E%D7%97%D7%A9%D7%91-%D7%91%D7%90%D7%9E%D7%AA-%D7%A8%D7%9C%D7%95%D7%95%D7%A0%D7%98%D7%99-%D7%9C%D7%A2%D7%91%D7%95%D7%93%D7%AA-%D7%94%D7%99%D7%95%D7%9D-activity-6873009869566418944-rrTy/).
 
 He explains there well what he uses and what not in this picture:
 
@@ -20,7 +33,7 @@ He explains there well what he uses and what not in this picture:
 
 There is no need to do a degree for the courses that he says he uses in his day work, because you can learn them in UDemy or another online courses website.
 
-And also for web dvelopment you don't need to know C/C++, OOP or Computer science Introduction so Degree has almost no impact on day to day work in web development.
+And also for web dvelopment you don't need to know C/C++, OOP or Computer science Introduction so Degree has almost no impact on day to day work in web development, although learning and code language will help you to become a developer.
   
 Degree will expaned your knowledge in Math & it will get you better at solving problems.
 
@@ -29,6 +42,8 @@ It will cost you about 30K-40K NIS & Will take you 3 years to finish.
 It's not updated to the new technologies so you will have to learn them on your own time.
 
 It gets stressful for some people.
+
+conclusion: Most expensive, irrelevant and time killing way to become a developer.
   
 ## B. Bootcamp
 Bootcamp will give you guidance (not always good because a developer needs to learn to solve the problems by himself & google).
