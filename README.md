@@ -21,7 +21,7 @@ Firstly you have to know English, if you don't, go learn English and comeback :)
   
   C. Relevance of technologies that the industry uses.
   
-  D. Self discipline - I'll finish with that now and say that Degree & Bootcamp are coming with teachers, tutors, schedule & classmates. When you Self taught you can find Discord servers, Whatsapp teams or friends that can help.
+  D. Self discipline - I'll finish with that now and say that Degree & Bootcamp are coming with teachers, tutors, schedule & classmates. When you Self taught you can find Discord servers, Whatsapp teams or friends that can help. Another thing to take into consideration is the fact that a good developer **must** to know how to learn by himself, does not matter in what way he chooses to learn, because the development world is shifting pretty fast.
 
   
 ## A. Degree
