@@ -69,13 +69,15 @@ For this way I'll also provide a list of the courses & more.
 5. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/).
 6. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
 
-Build your first project, backend only for now.
+Build your first project with - Node.js & MongoDB with Typescript, backend only for now (Or continue to React.js, whatever you want).
 
-5. React.js.
+5. [React.js](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+6. [MERN Stack](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 
-Build frontend for the backend project.
+Build frontend with - React.js with Typescript for the backend project (Or Full Stack project with - Node.js, MongoDB & React.js with Typescript if you didn't build the backend yet).
 
-6. Angular.
-7. MySQL.
+6. [Angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+7. [MEAN Stack](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
+8. [SQL (MySQL & PostgreSQL)](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/)
 
-Build a Full Stack project.
+Build a Full Stack project with - Node.js, MySQL (You can use [Sequelize ORM](https://sequelize.org/) if you want) & React.js with Typescript.
