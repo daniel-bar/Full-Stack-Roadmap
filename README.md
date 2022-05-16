@@ -39,11 +39,9 @@ Degree will expaned your knowledge in Math, Computer Science & it will get you b
 
 It will cost you about 30K-40K NIS & Will take you 3 years to finish.
 
-It's not updated to the new technologies so you will have to learn them at your own time. (You can also try to go after a degree to places like [infinitylabs.co.il](https://infinitylabs.co.il/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%9B%D7%A9%D7%A8%D7%94/) which take's only a degree graduates. They will make you a developer, not the degree).
+It's not updated to the new technologies so you will have to learn them at your own time. (You can also try to go after a degree to places like [infinitylabs.co.il](https://infinitylabs.co.il/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%9B%D7%A9%D7%A8%D7%94/) which take's only graduates. They will make you a developer, not the degree).
 
 It gets stressful for some people.
-
-conclusion: Most expensive, irrelevant and time killing way to become a developer.
   
 ## B. Bootcamp
 Bootcamp will give you guidance, But I know for a fact that alot of bootcamps "finds a job" for there graduates as tutors in their bootcamp.
@@ -53,7 +51,7 @@ The cost is about 20K NIS.
 
 It will take you from 12 weeks to a year to finish (Depends on the bootcamp program).
 
-Bootcamps are not always fully updated with the new technologies, there are still bootcamps at 2022 who teach JQuery & PHP.
+Bootcamps are not always fully updated with the new technologies, there are still bootcamps at 2022 who teach JQuery & PHP :shipit:.
 
 ## C. Self taught
 Practical & Cheap. Do it whenever you want style.
