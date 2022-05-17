@@ -56,7 +56,7 @@ Bootcamps are not always fully updated with the new technologies, there are stil
 ## C. Self taught
 Practical & Cheap. Do it whenever you want style.
 
-You can learn everything for [academind.com](academind.com), it will cost you 200$ for one year subscription.
+You can learn everything from [academind.com](academind.com), it will cost you 200$ for one year subscription.
 
 For this way I'll also provide a list of the courses & more.
 
