@@ -45,7 +45,7 @@ It gets stressful for some people.
   
 ## B. Bootcamp
 Bootcamp will give you guidance, But I know for a fact that alot of bootcamps "finds a job" for there graduates as tutors in their bootcamp.
-That's not a good idea because you don't want someone without experience teaching you how to code it will lead you to bad prectices.
+That's not a good idea because you don't want someone without experience teaching you how to code it will lead you to bad prectices. Here is an example for bootcamp named sela that wants their graduates sign for 3 years if they will hire them - [Post](https://www.linkedin.com/posts/ronozery_%D7%90%D7%9E%D7%9C%D7%A7-%D7%A2%D7%91%D7%93%D7%95%D7%AA-%D7%91%D7%94%D7%99%D7%99%D7%98%D7%A7-2022-%D7%94%D7%A4%D7%A2%D7%9D-%D7%94%D7%AA%D7%A0%D7%94%D7%9C%D7%95%D7%AA-activity-6932987051160084480-Vq2A?utm_source=linkedin_share&utm_medium=android_app)
 
 The cost is about 20K NIS.
 
