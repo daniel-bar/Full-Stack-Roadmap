@@ -62,9 +62,12 @@ For this way I'll also provide a list of the courses & more.
 1. [HTML](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) ([BEM methodology](https://en.bem.info/methodology/))
 2. [CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 3. [Javascript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
-4. [Typescript](https://www.udemy.com/course/understanding-typescript/) (use only Typescript form now)
-5. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/).
-6. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
+  1. [JavaScript Algorithms - The Fundamentals](https://pro.academind.com/courses/enrolled/913203)
+  2. [JavaScript Data Structures - The Fundamentals](https://pro.academind.com/courses/enrolled/1080300)
+  3. [JavaScript - The Tricky Parts](https://pro.academind.com/courses/enrolled/805600)
+5. [Typescript](https://www.udemy.com/course/understanding-typescript/) (use only Typescript form now)
+6. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/).
+7. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
 
 Build your first project with - Node.js & MongoDB with Typescript, backend only for now (Or continue to React.js, whatever you want).
 
