@@ -78,3 +78,13 @@ Build frontend with - React.js with Typescript for the backend project (Or Full 
 11. [SQL (MySQL & PostgreSQL)](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/)
 
 Build a Full Stack project with - Node.js, MySQL (You can use [Sequelize ORM](https://sequelize.org/) if you want) & React.js with Typescript.
+
+
+## Enrichment
+
+Doesn't matter what way you are going to choose, if you enjoing development you **must** read about new technologies & the technologies of your stack.
+
+My recommendations for enrichment:
+
+1. [https://dev.to/](dev.to) - extension for chrome [https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied](daily dev) 
+2. [https://www.youtube.com/c/WebDevSimplified](Web Dev Simplified)
