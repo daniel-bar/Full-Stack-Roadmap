@@ -82,7 +82,7 @@ Build a Full Stack project with - Node.js, MySQL (You can use [Sequelize ORM](ht
 
 ## Enrichment
 
-Doesn't matter what way you are going to choose, if you enjoing development you **must** read about new technologies & the technologies of your stack.
+Doesn't matter what way are you going to choose, if you enjoing development you **must** read about new technologies & the technologies of your stack.
 
 My recommendations for enrichment:
 
