@@ -86,5 +86,5 @@ Doesn't matter what way you are going to choose, if you enjoing development you 
 
 My recommendations for enrichment:
 
-1. [dev.to]([dev.to](https://dev.to/)) - extension for chrome [Daily Dev]([daily dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)) 
+1. [dev.to](https://dev.to/) - extension for chrome [Daily Dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 2. [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
