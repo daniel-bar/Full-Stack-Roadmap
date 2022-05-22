@@ -69,8 +69,8 @@ For this way I'll also provide a list of the courses & more.
       3. [JavaScript - The Tricky Parts](https://pro.academind.com/courses/enrolled/805600)
 
 5. [Typescript](https://www.udemy.com/course/understanding-typescript/) (use only Typescript form now)
-6. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/).
-7. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/).
+6. [Node.js](https://www.udemy.com/course/nodejs-the-complete-guide/)
+7. [MongoDB](https://www.udemy.com/course/mongodb-the-complete-developers-guide/)
 
 Build your first project with - Node.js & MongoDB with Typescript, backend only for now (Or continue to React.js, whatever you want).
 
