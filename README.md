@@ -36,7 +36,7 @@ And also for web dvelopment you don't need to know C/C++, OOP or Computer scienc
   
 Degree will expaned your knowledge in Math, Computer Science & it will get you better at solving problems.
 
-It will cost you about 30K-40K NIS & Will take you 3 years to finish.
+It will cost you about 30K-40K NIS & Will take you 3-4 years to finish.
 
 It's not updated to the new technologies so you will have to learn them at your own time. (You can also try to go after a degree to places like [infinitylabs.co.il](https://infinitylabs.co.il/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99-%D7%94%D7%9B%D7%A9%D7%A8%D7%94/) which take's only graduates. They will make you a developer, not the degree).
 
