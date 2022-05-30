@@ -60,7 +60,7 @@ You can learn everything from [academind.com](academind.com), it will cost you 2
 For this way I'll also provide a list of the courses & more.
 
 1. [HTML](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-2. [CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) ([BEM methodology](https://en.bem.info/methodology/))
+2. [CSS](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) ([BEM methodology](https://en.bem.info/methodology/), [SCSS](https://youtu.be/Zz6eOVaaelI))
 3. [JavaScript](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/)
 
       Advanced JavaScript courses:
