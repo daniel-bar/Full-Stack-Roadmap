@@ -26,10 +26,6 @@ Firstly you have to know English, if you don't, go learn English and comeback :)
 ### A. Degree
 In a degree most of the courses won't be prectical for development. Look at this post from a software engineer at Meta - [Post](https://www.linkedin.com/posts/avi-lewis_%D7%94%D7%90%D7%9D-%D7%AA%D7%95%D7%90%D7%A8-%D7%91%D7%9E%D7%93%D7%A2%D7%99-%D7%9E%D7%97%D7%A9%D7%91-%D7%91%D7%90%D7%9E%D7%AA-%D7%A8%D7%9C%D7%95%D7%95%D7%A0%D7%98%D7%99-%D7%9C%D7%A2%D7%91%D7%95%D7%93%D7%AA-%D7%94%D7%99%D7%95%D7%9D-activity-6873009869566418944-rrTy/).
 
-He explains well what he uses and what not in this picture: (pic from his post)
-
-![This is an image](https://media-exp1.licdn.com/dms/image/C5622AQEnnatJPxjd3A/feedshare-shrink_800/0/1638653246384?e=1655337600&v=beta&t=VHvkO_ehK9pYCEPQO26MUW0oRqQStMiNI5PEgf8pydo)
-
 There is no need to do a degree for the courses that he says he uses in his day work, because you can learn them in UDemy or another online courses website.
 
 And also for web dvelopment you don't need to know C/C++, OOP or Computer science Introduction so Degree has almost no impact on day to day work in web development, although learning code language will help you to become a developer & learning what is OOP (Object-oriented programming) is important.
