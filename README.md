@@ -79,7 +79,7 @@ Build frontend with - React.js with Typescript for the backend project (Or Full 
 10. [MEAN Stack](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/)
 11. [SQL (MySQL & PostgreSQL)](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/)
 
-Build a Full Stack project with - Node.js, MySQL (You can use [Sequelize ORM](https://sequelize.org/) if you want) & React.js with Typescript.
+Build a Full Stack project with - Node.js, MySQL (You can use [Sequelize ORM](https://sequelize.org/) or [Prisma ORM](https://www.prisma.io/) if you want but any other ORM is fine, it's good to learn at least one ORM to understand the idea behind it) & React.js with Typescript.
 
 
 ## Enrichment
